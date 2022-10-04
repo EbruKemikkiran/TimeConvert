@@ -1,0 +1,11 @@
+D:\c#\TimeConvert\TimeConvert\obj\Debug\TimeConvert.csproj.AssemblyReference.cache
+D:\c#\TimeConvert\TimeConvert\obj\Debug\TimeConvert.csproj.SuggestedBindingRedirects.cache
+D:\c#\TimeConvert\TimeConvert\obj\Debug\TimeConvert.Form1.resources
+D:\c#\TimeConvert\TimeConvert\obj\Debug\TimeConvert.Properties.Resources.resources
+D:\c#\TimeConvert\TimeConvert\obj\Debug\TimeConvert.csproj.GenerateResource.cache
+D:\c#\TimeConvert\TimeConvert\obj\Debug\TimeConvert.csproj.CoreCompileInputs.cache
+D:\c#\TimeConvert\TimeConvert\bin\Debug\TimeConvert.exe.config
+D:\c#\TimeConvert\TimeConvert\bin\Debug\TimeConvert.exe
+D:\c#\TimeConvert\TimeConvert\bin\Debug\TimeConvert.pdb
+D:\c#\TimeConvert\TimeConvert\obj\Debug\TimeConvert.exe
+D:\c#\TimeConvert\TimeConvert\obj\Debug\TimeConvert.pdb
